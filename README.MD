@@ -4,4 +4,4 @@
 1. 
 ### Documentasi server
 1. masuk keterminl  cd server
-2. jalankan perintah ####npm install
+2. jalankan perintah ~npm install~
